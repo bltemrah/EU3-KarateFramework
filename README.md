@@ -11,4 +11,4 @@ bltemrah@gmail.com
 https://www.linkedin.com/in/emrah-bulut-66802453/
 
 • Build Tool: Maven
-• Features: src > test > java > Features
+• Features: src > test > java > features
